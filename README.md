@@ -49,8 +49,8 @@ The analysis answers 10 key questions about user behavior, booking trends, and s
 
 ### Author
 - **Alish Thapa**
-- Email: [your-email@example.com]
-- LinkedIn: [your-linkedin-profile]
+- Email: [alishbikramthapa123@gmail.com]
+- LinkedIn: [linkedin.com/in/alish-thapa-4a874127a]
 
 ---
 Feel free to contribute or raise issues for improvements!
